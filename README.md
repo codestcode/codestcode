@@ -4,10 +4,22 @@
 
 ---
 
-## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1259567247727394929)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habeba-ehab-ebrahimm/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:habebaehab165@gmail.com)  
+## 🌐 Connect with Me  
+
+<p align="center">
+  <!-- Discord -->
+  <a href="https://discord.com/users/1259567247727394929" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="50" height="50"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/habeba-ehab-ebrahimm/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
+  </a>
+  <!-- Email -->
+  <a href="mailto:habebaehab165@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="50"/>
+  </a>
+</p>
 
 ---
 
