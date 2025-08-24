@@ -83,12 +83,7 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
----
 
-## 🏆 Achievements & Extras
-![trophy](https://github-profile-trophy.vercel.app/?username=codestcode&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=codestcode&icon=5&color=9)  
 
 ---
 
