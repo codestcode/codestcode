@@ -86,10 +86,10 @@
 
 
 ---
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="habeba_ehab_E" data-description="Support me on Buy me a coffee!" data-message="Late nights, lots of code, and endless cups of coffee keep this project alive" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
-## ☕ Support Me
-<a href="https://buymeacoffee.com/habeba_ehab_e" target="">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee"/>
+
+## ☕Buy me Coffee
+<a href="https://www.buymeacoffee.com/habeba_ehab_E" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-purple.png" height="50" alt="Buy Me A Coffee" />
 </a>
 
 
