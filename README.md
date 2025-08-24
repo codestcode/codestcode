@@ -1,6 +1,5 @@
-# 👩‍💻 Habeba Ehab  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Lover;Digital+Pioneer;Written+by+Habeba+Ehab)](https://git.io/typing-svg)
 
-✨ *Frontend Developer | Digital Pioneer | Lifelong Learner* ✨  
 
 ---
 
