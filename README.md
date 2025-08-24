@@ -88,9 +88,8 @@
 ---
 
 ## ☕Buy me Coffee
-<a href="https://www.buymeacoffee.com/habeba_ehab_E" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-purple.png" height="50" alt="Buy Me A Coffee" />
-</a>
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-purple.png)](https://www.buymeacoffee.com/habeba_ehab_E)
+
 
 
 ### ✍️ Written with ❤️ by *Habeba Ehab*
