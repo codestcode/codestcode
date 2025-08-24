@@ -60,7 +60,6 @@
   <!-- Figma -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
   <!-- Canva -->
-  <img src="https://seeklogo.com/images/C/canva-logo-9E07A0B1B4-seeklogo.com.png" width="50" height="50"/>
   <!-- Google Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
   <!-- C++ -->
