@@ -1,6 +1,6 @@
 # ✍️ About Me  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Habeba+Ehab;React+Frontend+Developer;MERN+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Habeba+Ehab;React+Next+Frontend+Developer;MERN+Stack)](https://git.io/typing-svg)
 
 ---
 
