@@ -97,7 +97,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/codestcode/codestcode/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/codestcode/codestcode/output/github-snake-dark.svg" alt="Snake animation" />
 
 
 ---
