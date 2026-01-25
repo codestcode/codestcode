@@ -16,8 +16,7 @@
 
 - 💻 **MERN Full-Stack Developer**  
 - 💀 **Competitive Programmer**  
-- 🌱 Always learning & building real-world projects  
-- 🚜 **Future farmer (seriously 😄)**  
+-  **Future farmer (seriously )**  
 
 ---
 
