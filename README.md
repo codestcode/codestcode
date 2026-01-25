@@ -75,11 +75,11 @@
 
 <img src="https://raw.githubusercontent.com/codestcode/codestcode/output/github-snake-dark.svg" alt="Snake animation" />
 
-<p align="center">
+<p align="right">
   <img src="https://nirzak-streak-stats.vercel.app/?user=codestcode&theme=radical"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestcode&layout=compact&theme=radical"/>
 </p>
 
