@@ -97,6 +97,10 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/codestcode/codestcode/output/snake.svg" alt="Snake animation" />
+
+---
+
 <p align="center">
   <strong>Written with ❤️ by Habeba Ehab</strong>
 </p>
