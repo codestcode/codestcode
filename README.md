@@ -1,26 +1,23 @@
 # ✍️ About Me  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Habeba+Ehab;React+Next+Frontend+Developer;MERN+Stack)](https://git.io/typing-svg)
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Habeba+Ehab" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Habeba+Ehab;React+Next+Frontend+Developer;MERN+Stack" />
+</p>
 
 ---
 
-## <picture>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-</picture> About Me
+## 👩‍💻 Who Am I?
 
 <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHA5dnVvdjd5M3Z3dnhpajV4ZDQ1aW9reXhxd3Qwcm05MDZzMzRwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250px">
 </picture>
 
-- 🎓 Computer Science student  
-- 💻 Frontend-focused **MERN Stack Developer**  
-- ⚛️ Specializing in **React & Next.js**  
-- 🎨 Passionate about clean UI, UX, and scalable frontend architecture  
-- 🚀 Actively building real-world projects and improving daily
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGE0M2h0YndiYnhvZHU0Y200eGtkbGcxenljZ2thaGZhYmEwMXN3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hw0wIr1YL75VC/giphy.gif" width="45px">
+
+- 💻 **MERN Full-Stack Developer**  
+- 💀 **Competitive Programmer**  
+- 🌱 Always learning & building real-world projects  
+- 🚜 **Future farmer (seriously 😄)**  
 
 ---
 
@@ -44,6 +41,7 @@
 
 <p align="center">
 
+<!-- Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
@@ -54,6 +52,7 @@
 
 <br/>
 
+<!-- Backend & Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
@@ -63,6 +62,7 @@
 
 <br/>
 
+<!-- Other -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
@@ -101,5 +101,3 @@
 <p align="center">
   <strong>Written with ❤️ by Habeba Ehab</strong>
 </p>
-
-### ✍️ Written with ❤️ by *Habeba Ehab*
