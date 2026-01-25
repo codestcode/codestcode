@@ -76,7 +76,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codestcode/codestcode/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/codestcode/codestcode/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
 </p>
 
 
