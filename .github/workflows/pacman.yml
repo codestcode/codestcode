@@ -9,22 +9,25 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  metrics:
     runs-on: ubuntu-latest
 
     steps:
       - name: Generate Pacman graph
-        uses: Platane/snk@v3
+        uses: lowlighter/metrics@latest
         with:
-          github_user_name: codestcode
-          outputs: |
-            dist/pacman.svg?animation=pacman
-            dist/pacman-dark.svg?animation=pacman&palette=github-dark
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: codestcode
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Basic setup
+          template: classic
+          base: ""
+
+          # Enable Pacman plugin
+          plugin_pacman: yes
+          plugin_pacman_delay: 1
+          plugin_pacman_speed: 2
+          plugin_pacman_saturation: 0.8
+
+          # Output file
+          filename: pacman.svg
