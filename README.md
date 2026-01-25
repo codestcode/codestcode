@@ -73,8 +73,6 @@
 
 ## 📊 GitHub Statistics
 
-<img src="https://raw.githubusercontent.com/codestcode/codestcode/output/github-snake-dark.svg" alt="Snake animation" />
-
 ---
 
 <picture>
@@ -82,6 +80,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codestcode/codestcode/output/pacman.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codestcode/codestcode/output/pacman.svg">
 </picture>
+
 
 ---
 
