@@ -18,8 +18,9 @@ jobs:
         with:
           github_user_name: codestcode
           outputs: |
-             dist/snake-glow.svg?color_snake=38B2AC&color_dots=0D1117,161B22,21262D
-
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=bfd6f6,8dbdff,64a1f4,4b91f1,3c7dd9&color_background=aaaaaa
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
