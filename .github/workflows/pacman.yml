@@ -19,15 +19,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: codestcode
 
-          # Basic setup
           template: classic
           base: ""
 
-          # Enable Pacman plugin
           plugin_pacman: yes
           plugin_pacman_delay: 1
           plugin_pacman_speed: 2
           plugin_pacman_saturation: 0.8
 
-          # Output file
           filename: pacman.svg
