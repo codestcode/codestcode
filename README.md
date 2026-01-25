@@ -75,7 +75,7 @@
 
 ---
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codestcode/codestcode/output/pacman-dark.svg">
+<img src="https://raw.githubusercontent.com/codestcode/codestcode/output/pacman.svg" alt="Pacman contribution graph" />
 
 
 ---
