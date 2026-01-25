@@ -73,9 +73,7 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codestcode&show_icons=true&theme=radical"/>
-</p>
+<img src="https://raw.githubusercontent.com/codestcode/codestcode/output/github-snake-dark.svg" alt="Snake animation" />
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=codestcode&theme=radical"/>
@@ -94,12 +92,6 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
   </a>
 </p>
-
----
-
-<img src="https://raw.githubusercontent.com/codestcode/codestcode/output/github-snake-dark.svg" alt="Snake animation" />
-
-
 ---
 
 <p align="center">
