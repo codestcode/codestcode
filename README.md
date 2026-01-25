@@ -40,7 +40,7 @@
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
   <!-- Tailwind -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>
   <!-- Semantic UI React (fallback logo since no official devicon) -->
   <img src="https://avatars.githubusercontent.com/u/5799200?s=200&v=4" width="50" height="50"/>
   <!-- React Hook Form -->
