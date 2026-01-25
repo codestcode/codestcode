@@ -75,13 +75,17 @@
 
 ---
 
-<p align="center" style="background:#0D1117;padding:20px;border-radius:14px;">
-  <img
-    src="https://raw.githubusercontent.com/codestcode/codestcode/output/pacman-contribution-graph.svg"
-    alt="Pacman contribution graph"
-    style="filter: drop-shadow(0 0 8px #38B2AC);"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td bgcolor="#0D1117" align="center">
+      <img
+        src="https://raw.githubusercontent.com/codestcode/codestcode/output/pacman-contribution-graph.svg"
+        alt="Pacman contribution graph"
+      />
+    </td>
+  </tr>
+</table>
+
 
 
 
