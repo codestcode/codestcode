@@ -75,11 +75,7 @@
 
 ---
 
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codestcode/codestcode/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codestcode/codestcode/output/pacman.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codestcode/codestcode/output/pacman.svg">
-</picture>
 
 
 ---
