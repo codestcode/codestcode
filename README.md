@@ -97,13 +97,8 @@
 
 ---
 
-<p align="center" style="background:#0D1117; padding:20px; border-radius:12px;">
-  <img 
-    src="https://raw.githubusercontent.com/codestcode/codestcode/output/snake-glow.svg"
-    alt="Snake animation"
-    style="filter: drop-shadow(0 0 8px #38B2AC) drop-shadow(0 0 16px #38B2AC);"
-  />
-</p>
+<img src="https://raw.githubusercontent.com/codestcode/codestcode/output/snake.svg" alt="Snake animation" />
+
 
 ---
 
