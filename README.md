@@ -81,19 +81,19 @@
 ---
 
 ## 📊 GitHub Statistics
----
 
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=codestcode&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestcode&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=codestcode&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestcode&layout=compact&theme=radical" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 ---
