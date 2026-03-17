@@ -2,8 +2,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=123&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-#  About Me  
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Habeba+Ehab;React+Next+Frontend+Developer;MERN+Stack" />
 </p>
@@ -93,3 +91,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestcode&layout=compact&theme=radical" />
 </p>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=123&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
