@@ -81,13 +81,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=codestcode&theme=radical" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestcode&layout=compact&theme=radical" />
 </p>
