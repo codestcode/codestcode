@@ -16,9 +16,6 @@
 
 
 ---
-
-## 👩‍💻 Who Am I?
-
 <picture>
   <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHA5dnVvdjd5M3Z3dnhpajV4ZDQ1aW9reXhxd3Qwcm05MDZzMzRwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250px">
 </picture>
