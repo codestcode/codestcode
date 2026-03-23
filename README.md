@@ -7,7 +7,12 @@
 </p>
 
 ---
-
+<p align="center">
+  <a href="http://www.habebaehab.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-38B2AC?style=for-the-badge&logoColor=white&labelColor=0f172a"/>
+  </a>
+</p>
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codestcode/codestcode/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codestcode/codestcode/output/pacman-contribution-graph.svg">
