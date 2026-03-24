@@ -25,30 +25,6 @@
   <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHA5dnVvdjd5M3Z3dnhpajV4ZDQ1aW9reXhxd3Qwcm05MDZzMzRwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250px">
 </picture>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGE0M2h0YndiYnhvZHU0Y200eGtkbGcxenljZ2thaGZhYmEwMXN3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hw0wIr1YL75VC/giphy.gif" width="45px">
-
-- 💻 **MERN Full-Stack Developer**  
-- 💀 **Competitive Programmer**  
--  **Future farmer (seriously )**  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/habeba-ehab-ebrahimm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
-  </a>
-  <a href="mailto:habebaehab165@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45" height="40"/>
-  </a>
-  <a href="https://discord.com/users/1259567247727394929" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="45" height="40"/>
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
